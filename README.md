@@ -1,6 +1,6 @@
 <div align="center">
 
-## Its_me_Amal 
+##  ~ɪͥᴛͭ'sᷤ ᴍᷟᴇᷪ ʀɪᴄʜᴜˢᵉʳ⚠︎
 
 <div align="center">
   <img src=https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg>
@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Amal
+### ~ɪͥᴛͭ'sᷤ ᴍᷟᴇᷪ ʀɪᴄʜᴜˢᵉʳ⚠︎
 
 
 ### ⚠️ Warning! 
@@ -48,7 +48,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   [![Amalser](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
  https://github.com/Amalser_v1 |  
 ----|
-[Its_me_Amal](https://github.com/Amalser_v1)  |
+[~ɪͥᴛͭ'sᷤ ᴍᷟᴇᷪ ʀɪᴄʜᴜˢᵉʳ⚠︎](https://github.com/Amalser_v1)  |
 Base, Bug Fixes, Modules | 
   
     
