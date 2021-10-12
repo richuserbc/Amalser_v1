@@ -3,7 +3,7 @@
 ##  ~ɪͥᴛͭ'sᷤ ᴍᷟᴇᷪ ʀɪᴄʜᴜˢᵉʳ⚠︎
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/richusher.jpg>
+  <img src="richusher.jpg">
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
